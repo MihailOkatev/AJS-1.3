@@ -1,0 +1,29 @@
+{
+  "name": "eslint-testing",
+  "version": "1.0.0",
+  "description": "eslint netology homework",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MihailOkatev/AJS-1.3.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Astario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MihailOkatev/AJS-1.3/issues"
+  },
+  "homepage": "https://github.com/MihailOkatev/AJS-1.3#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "dependencies": {
+    "eslint-config-airbnb": "^18.1.0"
+  }
+}
